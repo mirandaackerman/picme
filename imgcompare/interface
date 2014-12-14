@@ -1,0 +1,11 @@
+http://www.w3schools.com/php/php_file_upload.asp
+
+my localhost is running something
+
+user presses submit,
+image is loaded
+image is tested
+if true return the name of the similar file. * pending correction
+create image ipaddress mapping
+instead of similar file name return mapping result
+

@@ -1,0 +1,8 @@
+http://www.jhnc.org/findimagedupes/manpage.html
+http://www.fmwconcepts.com/imagemagick/similar/index.php
+
+http://hackerlabs.org/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking/
+
+no mention of the one about google, but its similar to the above url
+
+findimagedupes file1 file2, no output they are different , output they are similar

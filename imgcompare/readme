@@ -1,0 +1,8 @@
+Action items
+* find similar images  -> done findimagedups
+* get a file from webpage return a link
+
+*make a map of image to link address
+
+*command to execute for testing
+ wc -m <name of the file>

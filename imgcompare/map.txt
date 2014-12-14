@@ -1,0 +1,15 @@
+/var/www/imgcompare/gerwinski-gnu-head.png http://www.gnu.org/
+/var/www/imgcompare/reaktivo.png http://drop.reaktivo.com/
+/var/www/imgcompare/jacobo.jpg http://www.poemhunter.com/eduardo-jacobo-miranda-garcia/
+/var/www/imgcompare/IMAG0129.jpg http://cnn.com
+/var/www/imgcompare/IMAG0129.jpg simim.com
+/var/www/imgcompare/IMAG0130.jpg simim.com
+/var/www/imgcompare/IMAG0129.jpg http://www.simim.com/
+/var/www/imgcompare/IMAG0129.jpg http://www.simim29.com/
+/var/www/imgcompare/IMAG0137.jpg http://example.com
+/var/www/imgcompare/IMAG0140.jpg http://cnn.com
+/var/www/imgcompare/IMAG0034.jpg rt.com
+/var/www/imgcompare/IMAG0034.jpg 
+/var/www/imgcompare/IMAG0034.jpg 
+/var/www/imgcompare/IMAG0034.jpg 
+/var/www/imgcompare/IMAG0034.jpg 
